@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "9BC6vqG+F73a5Wn8+6/sEHtLNW+HZQ0PB/kL8cdm2KgkQ2XwV0QiZylg6VIJmDQhAUMvKMy+MoMbmbF/labh1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yasma\\Desktop\\Lab-2\\LabOOP2WinForms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yasma\\.nuget\\packages\\awssdk\\2.3.55.2\\awssdk.2.3.55.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'AWSSDK 2.3.55.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "AWSSDK",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    }
+  ]
+}
